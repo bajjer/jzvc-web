@@ -80,7 +80,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.9
+topbar_transparency                       : 0.8
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/logo-cropped.png                    # Replace with alternative image path or image URL.
@@ -91,7 +91,7 @@ device_color                              : black                               
 
 body_background_color                     : "#000000"
 
-link_color                                : "#fe9843"
+link_color                                : "#666666"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -100,11 +100,11 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#ffffff"
 
-feature_icons_foreground_color            : "#fe9843"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#fe9843"
 
-social_icons_foreground_color             : "#fe9843"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#fe9843"
 
 footer_text_color                         : "#666666"
 

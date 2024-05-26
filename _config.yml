@@ -43,19 +43,19 @@ features                                  :
   - title                                 : Bitcoin jednostavan kao 1, 2, 3
     description                           : Aktivirajte svoj novčanik za nekoliko sekundi da biste slali ili primali bitcoin.
     fontawesome_icon_name                 : rocket
-    
-  - title                                 : Otvoreno 24/7
-    description                           : Bitcoin ne prestaje s radom, za razliku od vaše banke.
-    fontawesome_icon_name                 : qrcode
+
+  - title                                 : 0% naknada
+    description                           : Nema naknada za slanje ili primanje sredstava među jzvc korisnicima. Ostali Lightning Network transferi koštaju u prosjeku 0.2%.
+    fontawesome_icon_name                 : percent
 
   - title                                 : Brzinom svjetlosti
     description                           : jzvc je izgrađen na Lightning Networku za trenutne bitcoin transfere.
     fontawesome_icon_name                 : bolt
 
-  - title                                 : 0% naknada
-    description                           : Nema naknada za slanje ili primanje sredstava među jzvc korisnicima. Ostali Lightning Network transferi koštaju u prosjeku 0.2%.
-    fontawesome_icon_name                 : percent
-  
+  - title                                 : Otvoreno 24/7
+    description                           : Bitcoin ne prestaje s radom, za razliku od vaše banke.
+    fontawesome_icon_name                 : bitcoin
+    
   - title                                 : Sigurno i bezbjedno
     description                           : Osigurano korištenjem vodećih standarda šifriranja i sigurnosti.
     fontawesome_icon_name                 : lock

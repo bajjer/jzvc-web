@@ -13,7 +13,7 @@ presskit_download_link                    : https://jzvc.ba                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : jzvc bitcoin novčanik                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : slobodan novac za slobodan narod          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : sigurni bitcoin novčanik za štednju i plaćanje
+app_description                           : sigurni bitcoin novčanik za štednju i plaćanje bez provizija i naknada
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,17 +36,17 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Prvi i jedini
-    description                           : jzvc je prvi i jedini bitcoin novčanik licenciran od strane Ministarstva finansija uz podršku Lightning Network (prijava u toku).
-    fontawesome_icon_name                 : star
+  - title                                 : 0% naknada
+    description                           : Nema naknada za slanje ili primanje sredstava među jzvc korisnicima. Ostali Lightning Network transferi koštaju u prosjeku 0.2%.
+    fontawesome_icon_name                 : percent
 
   - title                                 : Lako i jednostavno
     description                           : Aktivirajte svoj novčanik za nekoliko sekundi da biste slali ili primali bitcoin.
     fontawesome_icon_name                 : rocket
 
-  - title                                 : 0% naknada
-    description                           : Nema naknada za slanje ili primanje sredstava među jzvc korisnicima. Ostali Lightning Network transferi koštaju u prosjeku 0.2%.
-    fontawesome_icon_name                 : percent
+  - title                                 : Prvi i jedini
+    description                           : jzvc je prvi i jedini bitcoin novčanik licenciran od strane Ministarstva finansija uz podršku Lightning Network (prijava u toku).
+    fontawesome_icon_name                 : star
 
   - title                                 : Brzinom svjetlosti
     description                           : jzvc je izgrađen na Lightning Networku za trenutne bitcoin transfere.

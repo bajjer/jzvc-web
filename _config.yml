@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Prvi i jedini
     description                           : jzvc je prvi i jedini bitcoin novčanik u Bosni i Hercegovini koji je licenciran od strane Ministarstva finansija (prijava u toku).
-    fontawesome_icon_name                 : university
+    fontawesome_icon_name                 : star
 
   - title                                 : Lako kao pasulj
     description                           : Aktivirajte svoj novčanik za nekoliko sekundi da biste slali ili primali bitcoin.
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Otvoreno 24/7
     description                           : Bitcoin ne prestaje s radom, za razliku od vaše banke.
-    fontawesome_icon_name                 : bitcoin
+    fontawesome_icon_name                 : university
     
   - title                                 : Sigurno i bezbjedno
     description                           : Osigurano korištenjem vodećih standarda šifriranja i sigurnosti.

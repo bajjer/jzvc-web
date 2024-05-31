@@ -48,6 +48,10 @@ features                                  :
     description                           : jzvc je prvi i jedini bitcoin novčanik licenciran od strane Ministarstva finansija uz podršku Lightning Network (prijava u toku).
     fontawesome_icon_name                 : star
 
+  - title                                 : Globalno
+    description                           : Šaljite i primajte novac širom svijeta
+    fontawesome_icon_name                 : globe
+
   - title                                 : Brzinom svjetlosti
     description                           : jzvc je izgrađen na Lightning Networku za trenutne bitcoin transfere.
     fontawesome_icon_name                 : bolt
@@ -55,10 +59,6 @@ features                                  :
   - title                                 : Otvoreno 24/7
     description                           : Bitcoin ne prestaje s radom, za razliku od vaše banke.
     fontawesome_icon_name                 : university
-    
-  - title                                 : Sigurno i bezbjedno
-    description                           : Osigurano korištenjem vodećih standarda šifriranja i sigurnosti.
-    fontawesome_icon_name                 : lock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
